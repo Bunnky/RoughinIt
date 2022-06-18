@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de2a2e9d25e14799ba8f963d42a53ae4, type: 3}
+  m_Name: StonesButton
+  m_EditorClassIdentifier: 
+  GUIDContainer:
+    _serializedGuid: 8de86f86-8ae5-413d-a1a1-c1b71dd9e17f
+  Currency: {fileID: 11400000, guid: 49def9c989c8a2a4c9133479a56cf1cf, type: 2}
+  Amount: 1
